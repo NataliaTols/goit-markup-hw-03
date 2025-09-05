@@ -379,13 +379,6 @@ a {
     background-color: #2E2F42;
 }
 
-.portfolio-item-title,
-.portfolio-item-description {
-    text-align: left;
-    margin: 16px 16px 0 16px;
-    width: calc(100% - 32px);
-}
-
 .page-footer {
     background-color: #2E2F42;
     padding: 100px 0;
