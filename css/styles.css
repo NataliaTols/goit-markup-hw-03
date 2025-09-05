@@ -149,19 +149,18 @@ a {
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    width: 169;
-        height: 56;
-        angle: 0 deg;
-        opacity: 1;
-        top: 428px;
-        left: 636px;
-        gap: 10px;
-        border-radius: 4px;
-        padding-top: 16px;
-        padding-right: 32px;
-        padding-bottom: 16px;
-        padding-left: 32px;
-        margin-top: 48px;
+    width: 169px;
+    height: 56px;
+    opacity: 1;
+    top: 428px;
+    left: 636px;
+    gap: 10px;
+    border-radius: 4px;
+    padding-top: 16px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    margin-top: 48px;
 }
 .hero-button:hover, .hero-button:focus {
     background-color: #404bbf;
